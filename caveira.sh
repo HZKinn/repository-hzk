@@ -91,7 +91,7 @@ while true; do
             mostrar_ip 
             pausa 
             ;;
-        0) 
+        0)  clear
             echo -e "${RED}Saindo...${NC}"
             exit 
             ;;
